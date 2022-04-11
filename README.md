@@ -1,6 +1,6 @@
 # Automated-Youtube
 --------------------------------------------------------------------------------------------------------------------------------
- Make sure that you create a folder named "memes" and another one named "output""
+ Make sure that you create a folder named "memes" and another one named "output"
 --------------------------------------------------------------------------------------------------------------------------------
 
 
